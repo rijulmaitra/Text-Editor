@@ -37,8 +37,8 @@ To deploy this project run
 ## Screenshots
 
 <!-- ![App Screenshot](image.png) -->
-![alt text](image.png)
-
+<!-- ![alt text](image.png) -->
+![Output of Simple Notebook](screenshots/Screenshot1.png)
 
 
 ## Author
