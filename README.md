@@ -8,7 +8,7 @@ Simple Notebook** is a basic text editor built using Python's `tkinter` library.
 
 ## Deployment
 
-To deploy this project run
+To deploy this project, run this command
 
 1. **Clone or download the repo.**
 
