@@ -32,7 +32,7 @@ file_menu.add_command(label="Save", command=save_file)
 file_menu.add_separator()
 file_menu.add_command(label="Exit", command=root.quit)
 
-text=tk.Text(root, wrap=tk.WORD, font=("Arial",15), fg="red")
+text=tk.Text(root, wrap=tk.WORD, font=("Arial",20), fg="red")
 text.pack(expand=tk.YES, fill=tk.BOTH)
 
 root.mainloop()
