@@ -16,7 +16,7 @@ To deploy this project, follow this steps
 
     *for Windows*
     - python notebook.py
-    
+
     *for MacOs*
     - python3 notebook.py
 ## 🧮 How It Works
@@ -32,13 +32,12 @@ To deploy this project, follow this steps
 
 1. **Python** 
 
-2. **Tkinter** - Built-in GUI library
+2. **Tkinter** : Built-in GUI library
 
 
 ## Screenshots
 
-<!-- ![App Screenshot](image.png) -->
-<!-- ![alt text](image.png) -->
+
 ![Output of Simple Notebook](screenshots/Screenshot1.png)
 
 
