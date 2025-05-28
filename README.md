@@ -36,9 +36,9 @@ To deploy this project, follow this steps
 
 
 ## Screenshots
-### Run this command 
+#### Run this command 
 ![Command](screenshots/Screenshot2.png)
-### Output
+#### Output
 ![Output of Simple Notebook](screenshots/Screenshot1.png)
 
 
