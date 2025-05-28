@@ -16,6 +16,7 @@ To deploy this project, follow this steps
 
     *for Windows*
     - python notebook.py
+    
     *for MacOs*
     - python3 notebook.py
 ## 🧮 How It Works
