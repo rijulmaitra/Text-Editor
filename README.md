@@ -39,7 +39,8 @@ To deploy this project, follow this steps
 #### Run this command 
 ![Command](screenshots/Screenshot2.png)
 #### Output
-![Output of Simple Notebook](screenshots/Screenshot1.png)
+![Output in MacOS](screenshots/Screenshot1.png)
+![Output in Linux](screenshots/Screenshot3.jpeg)
 
 
 ## Author
