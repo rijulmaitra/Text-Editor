@@ -39,7 +39,9 @@ To deploy this project, follow this steps
 #### Run this command 
 ![Command](screenshots/Screenshot2.png)
 #### Output
+##### In MacOS
 ![Output in MacOS](screenshots/Screenshot1.png)
+##### In Linux
 ![Output in Linux](screenshots/Screenshot3.jpeg)
 
 
