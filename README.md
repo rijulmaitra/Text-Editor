@@ -9,16 +9,46 @@ Simple Notebook** is a basic text editor built using Python's `tkinter` library.
 ## Deployment
 
 To deploy this project, follow this steps
+1. **Prerequisites**
 
-1. **Clone or download the repo.**
+   - Python 3 must be installed on your system.
 
-2. **Run this command.**
+   - Tkinter is included with standard Python installations. If it's missing, install it using:
 
-    *for Windows*
-    - python notebook.py
+      #### For Debian/Ubuntu
+         sudo apt-get install python3-tk
 
-    *for MacOs*
-    - python3 notebook.py
+      #### For Red Hat/Fedora
+         sudo dnf install python3-tkinter
+
+      #### For macOS (with Homebrew)
+         brew install python-tk
+   
+2. **💻 macOS / Linux**
+   - Open Terminal.
+
+   - Clone or download this project folder.
+
+   - Navigate to the project directory.
+
+   - Run the following command:
+
+         python3 notebook.py
+
+3. **🪟 Windows**
+   - Make sure Python is installed and added to your PATH.
+
+   - Open Command Prompt or PowerShell.
+
+   - Navigate to the project folder using cd:
+
+         cd path\to\your\project
+
+   - Run the following command:
+
+         python notebook.py
+
+    
 ## 🧮 How It Works
 
 - 📄 Create new text files
