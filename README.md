@@ -66,8 +66,7 @@ To deploy this project, follow this steps
 
 
 ## Screenshots
-#### Run this command 
-![Command](screenshots/Screenshot2.png)
+
 #### Output
 ##### In MacOS
 ![Output in MacOS](screenshots/Screenshot1.png)
