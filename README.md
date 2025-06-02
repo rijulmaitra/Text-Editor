@@ -65,9 +65,8 @@ To deploy this project, follow this steps
 2. **Tkinter** : Built-in GUI library
 
 
-## Screenshots
+## Output Screenshots
 
-#### Output
 ##### In MacOS
 ![Output in MacOS](screenshots/Screenshot1.png)
 ##### In Linux
