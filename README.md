@@ -1,7 +1,7 @@
 
 # 📝 Simple Notebook
 
-Simple Notebook** is a basic text editor built using Python's `tkinter` library. It allows users to create, open, edit, and save plain text files with a user-friendly graphical interface.
+Simple Notebook is a basic text editor built using Python's `tkinter` library. It allows users to create, open, edit, and save plain text files with a user-friendly graphical interface.
 
 
 
